@@ -1,0 +1,26 @@
+{
+    "name": "Bloom & Petal Florist",
+    "short_name": "Bloom & Petal",
+    "description": "Professional florist app for ordering beautiful flower arrangements",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f9f5f2",
+    "theme_color": "#9d6b53",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "categories": ["shopping", "lifestyle"],
+    "icons": [
+        {
+            "src": "icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
